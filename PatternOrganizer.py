@@ -2,7 +2,7 @@
 """
 Created on Thu Jul 19 01:27:17 2018
 
-@author: Admin
+@author: Samuel Sellberg
 """
 
 import math
